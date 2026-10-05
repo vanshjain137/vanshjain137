@@ -36,5 +36,5 @@ I build scalable web applications, dynamic UIs, and robust backend microservices
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshjain137&show_icons=true&theme=radium&hide_border=true" alt="Vansh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshjain137&show_icons=true&theme=radium&hide_border=true&random=1" alt="Vansh's GitHub Stats" />
 </div>
